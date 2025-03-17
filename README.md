@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, me chamo Letícia e sou aluna 👋
 
 <!--
 **leticiavieira4/leticiavieira4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,8 @@
-## Olá, me chamo Letícia e sou aluna 👋
+## Olá, me chamo Letícia e sou aluna do senai
+Sobre mim:
+-Ensino Médio concluído
+-Jovem Aprendiz
+-Curso de Técnica em Logistíca
 
 <!--
 **leticiavieira4/leticiavieira4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

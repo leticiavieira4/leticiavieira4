@@ -1,5 +1,5 @@
 ## Olá, me chamo Letícia e sou aluna do senai
-##Sobre mim:
+Sobre mim:
 -Ensino Médio concluído
 -Jovem Aprendiz
 -Curso de Técnica em Logistíca
